@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Contoh Video di HTML</title>
+</head>
+<body>
+  <h1>Contoh Video di HTML</h1>
+  <video controls>
+    <source src="https://drive.google.com/file/d/1X10LvdyvuTH7JxMwQ8g7wGBu-LSqsSBk/view?usp=sharing" />
+    Browsermu tidak mendukung tag ini, upgrade donk!
+  </video>
+</body>
+</html>
